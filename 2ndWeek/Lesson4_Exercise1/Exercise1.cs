@@ -17,6 +17,19 @@ namespace Lesson4_Exercise1
 
             Console.WriteLine("Exercise1: ");
             string name = "Marek";
+            string surname = "Kowalski";
+            byte age = 35;
+            char gender = 'm';
+            ulong pesel = 85010102022;
+            uint id = 2509324094;
+
+            Console.WriteLine(
+                $"name: {name} \r\n" +
+                $"surname:{surname} \r\n" +
+                $"age: {age} \r\n" +
+                $"gender: {gender} \r\n" +
+                $"pesel: {pesel} \r\n" +
+                $"id: {id}");
 
         }
     }
