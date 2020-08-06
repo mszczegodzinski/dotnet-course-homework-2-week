@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Exercise3", "Lesson4_Exercise3\Lesson4_Exercise3.csproj", "{9173571D-AF54-4226-B30F-F43CD4FBEC95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Exercise3", "Lesson4_Exercise3\Lesson4_Exercise3.csproj", "{9173571D-AF54-4226-B30F-F43CD4FBEC95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Exercise1", "Lesson4_Exercise1\Lesson4_Exercise1.csproj", "{369786EC-7EDA-4FAF-A25D-FAF1CE5FE4F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Exercise1", "Lesson4_Exercise1\Lesson4_Exercise1.csproj", "{369786EC-7EDA-4FAF-A25D-FAF1CE5FE4F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Exercise2", "Lesson4_Exercise2\Lesson4_Exercise2.csproj", "{D25D3C5D-BD5F-42EA-B525-003010514BA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Exercise2", "Lesson4_Exercise2\Lesson4_Exercise2.csproj", "{D25D3C5D-BD5F-42EA-B525-003010514BA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Exercise4", "Lesson4_Exercise4\Lesson4_Exercise4.csproj", "{3F3191C9-FAF6-4045-977E-39B184AF3D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Exercise4", "Lesson4_Exercise4\Lesson4_Exercise4.csproj", "{3F3191C9-FAF6-4045-977E-39B184AF3D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Exercise5", "Lesson4_Exercise5\Lesson4_Exercise5.csproj", "{1F2D5348-D237-4DF2-84E5-51DFE0ECDEBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Exercise5", "Lesson4_Exercise5\Lesson4_Exercise5.csproj", "{1F2D5348-D237-4DF2-84E5-51DFE0ECDEBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson4", "Lesson4", "{4EC4B40D-580C-4C85-862F-A354CC299AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9173571D-AF54-4226-B30F-F43CD4FBEC95} = {4EC4B40D-580C-4C85-862F-A354CC299AD1}
+		{369786EC-7EDA-4FAF-A25D-FAF1CE5FE4F5} = {4EC4B40D-580C-4C85-862F-A354CC299AD1}
+		{D25D3C5D-BD5F-42EA-B525-003010514BA7} = {4EC4B40D-580C-4C85-862F-A354CC299AD1}
+		{3F3191C9-FAF6-4045-977E-39B184AF3D43} = {4EC4B40D-580C-4C85-862F-A354CC299AD1}
+		{1F2D5348-D237-4DF2-84E5-51DFE0ECDEBF} = {4EC4B40D-580C-4C85-862F-A354CC299AD1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B4DAA5B-8F3A-4F9D-880D-CB4CE7D1695F}
