@@ -18,7 +18,7 @@ You can read the history of homework exercises changes below
 |        |    7     | :white_check_mark:  | 07.08.2020    |
 |        |    8     | :white_check_mark:  | 07.08.2020    |
 |        |    9     | :white_check_mark:  | 07.08.2020    |
-|        |    10    | :white_check_mark   | 08.08.2020    |
+|        |    10    | :white_check_mark:  | 08.08.2020    |
 |        |    11    | :white_check_mark:  | 08.08.2020    |
 |        |    12    | :white_check_mark:  | 08.08.2020    |
 |        |    13    | :white_check_mark:  | 08.08.2020    |
