@@ -12,7 +12,7 @@ namespace L8_Ex03
             int fn;
             bool isNumberCorrect = Int32.TryParse(Console.ReadLine(), out fn);
 
-            if(isNumberCorrect)
+            if(isNumberCorrect && fn >= 0)
             {
                 Console.Write("Fibonacci sequence: ");
                 if (fn > 1)
@@ -46,7 +46,7 @@ namespace L8_Ex03
             }
             else
             {
-                Console.WriteLine("Incorrect input data. You can pass only an integer");
+                Console.WriteLine("Incorrect input data. You can pass only an integer greater or equal than 0");
             }
         }
     }
