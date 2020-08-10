@@ -46,7 +46,7 @@ namespace L8_Ex03
             }
             else
             {
-                Console.WriteLine("Incorrect input data. You can pass only an integer greater or equal than 0");
+                Console.WriteLine("Incorrect input data. You can only pass an integer greater or equal than 0");
             }
         }
     }

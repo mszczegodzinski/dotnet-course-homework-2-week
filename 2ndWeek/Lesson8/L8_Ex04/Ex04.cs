@@ -38,7 +38,7 @@ namespace L8_Ex04
             }
             else
             {
-                Console.WriteLine("Incorrect input data. You can pass only an integer");
+                Console.WriteLine("Incorrect input data. You can only pass an integer");
             }
         }
     }
